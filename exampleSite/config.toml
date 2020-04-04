@@ -1,4 +1,4 @@
-baseURL = "https://lyseo.netlify.com"
+baseURL = "http://lyseo.cf/"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
