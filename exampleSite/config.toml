@@ -11,11 +11,11 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = "content/french"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
+[Languages.zh-cn]
+contentDir = "content/zh-cn"
+home = "主页"
+languageCode = "zh-cn"
+languageName = "中文"
 weight = 2
 [[menu.main]]
 URL = "about"
