@@ -1,4 +1,6 @@
 baseURL = "https://www.lyseo.cf"
+defaultContentLanguage = "zh-cn"
+defaultContentLanguageInSubdir = true
 disableLanguages = ["en"]
 disqusShortname = ""
 paginate = "6"
