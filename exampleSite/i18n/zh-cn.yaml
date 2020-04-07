@@ -1,9 +1,9 @@
 - id: blogTitle
   translation: 最新文章
 - id: readMore
-  translation: 更多
-- id: viewAllPost
   translation: 全文
+- id: viewAllPost
+  translation: 更多
 - id: share
   translation: Partager
 - id: aboutAuthor
