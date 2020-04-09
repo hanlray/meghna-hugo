@@ -1,18 +1,58 @@
 ---
-title: "Are You Doing the Right Way"
+title: "SEO中关键词的选择"
 date: 2018-09-12T14:51:12+06:00
-image_webp: images/blog/blog-post-2.webp
-image: images/blog/blog-post-2.jpg
-author: John Doe
-description : "This is meta description"
+image: images/blog/keywords.jpg
+author: 洛阳SEO优化
+description : "SEO中关键词的选择"
 ---
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+SEO中关键词的选择，遵循以下几个原则：
+1. 内容相关
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+   关键词必须与网站的内容或产品相关。比如你卖白酒的，却要选择“奥运会”这个热门关键词，即使你能把客户带到你的网站，也形不成转化，这就是无效流量。
 
-> Design is not just what it looks like and feels like. Design is how it works.
+2. 搜索次数多，竞争小
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+   搜索次数多代表潜在流量大，竞争小说明抓住这份流量的难度低一些。
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+   搜索次数可以用百度指数来查看关键词的搜索量数据
+
+   ![百度指数](/static/blog/百度指数.png)
+
+   竞争程度可以有以下数据判断：
+
+  * 搜索结果数
+
+   ![搜索结果数](/static/blog/搜索结果数.png)
+
+    结果数在10万以下，竞争很小；结果数达到100万200万以上，竞争比较热门；结果数达到千万以上，竞争非常激烈
+
+  * intitle结果数
+
+    ![intitle结果数](/static/blog/intitle.png)
+
+    页面标题中包含关键词的一般都是有SEO意识的，是真正的竞争对手
+
+  * 竞价结果数
+
+    ![竞价结果数](/static/blog/竞价结果数.png)
+
+    竞价结果数越多，竞争越大
+
+  * 竞价价格
+    竞价价格越高，竞争越大
+
+  * 竞争对手情况
+    竞争对手的SEO优化做的很好，竞争就大
+
+  * 内页排名数量
+    搜索结果排在前面的内页越多，竞争越小
+
+3. 主关键词不可太宽泛
+   俗称大词，大词的缺点是竞争太大，代价太高，搜索意图不明确从而导致转化率低。
+
+4. 主关键词不可太特殊
+   俗称小词，没有人搜的词用来做关键词显然没有意义。常见的失误就是把公司名称、品牌名称作为主关键词
+
+5. 商业价值
+   “割双眼皮多少钱”比“双眼皮”商业价值高，因为前者已经有购买意图了，所以转化率也高。
