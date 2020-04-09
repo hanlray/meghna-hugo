@@ -17,25 +17,25 @@ SEO中关键词的选择，遵循以下几个原则：
 
    搜索次数可以用百度指数来查看关键词的搜索量数据
 
-   ![百度指数](/static/blog/百度指数.png)
+   ![百度指数](/images/blog/百度指数.png)
 
    竞争程度可以有以下数据判断：
 
   * 搜索结果数
 
-   ![搜索结果数](/static/blog/搜索结果数.png)
+   ![搜索结果数](/images/blog/搜索结果数.png)
 
     结果数在10万以下，竞争很小；结果数达到100万200万以上，竞争比较热门；结果数达到千万以上，竞争非常激烈
 
   * intitle结果数
 
-    ![intitle结果数](/static/blog/intitle.png)
+    ![intitle结果数](/images/blog/intitle.png)
 
     页面标题中包含关键词的一般都是有SEO意识的，是真正的竞争对手
 
   * 竞价结果数
 
-    ![竞价结果数](/static/blog/竞价结果数.png)
+    ![竞价结果数](/images/blog/竞价结果数.png)
 
     竞价结果数越多，竞争越大
 
